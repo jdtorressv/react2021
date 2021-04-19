@@ -15,7 +15,7 @@ function App() {
     },
     {
       id: 2,
-      text: 'Meeting at School',
+      text: 'Meeting at School with Principal',
       day: 'February 6th at 1:30pm',
       reminder: true,
     },
